@@ -1,6 +1,7 @@
 # Olá, Mundo!
- Primeiro Repositório Versionado
+ **Primeiro Repositório Versionado**
 
- Aula Gustavo Guanabara 23/06
+ *Aula Gustavo Guanabara 23/06*
 
 Adicionei essa linha diretamente no site 24/6
+Aula Markdwon
